@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "real time weather information",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakco1924/weather-website-using-Real-time-API.git"
+  },
+  "author": "deepak pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakco1924/weather-website-using-Real-time-API/issues"
+  },
+  "homepage": "https://github.com/deepakco1924/weather-website-using-Real-time-API#readme",
+  "dependencies": {
+    "date-and-time": "^2.4.0",
+    "nodemon": "^2.0.19",
+    "parcel": "^2.6.2",
+    "regenerator-runtime": "^0.13.9",
+    "requests": "^0.3.0"
+  }
+}
