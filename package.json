@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/deepakco1924/weather-website-using-Real-time-API#readme",
   "dependencies": {
-    "date-and-time": "^2.4.0",
+    "date-and-time": "^2.4.1",
     "nodemon": "^2.0.19",
-    "parcel": "^2.6.2",
+    "parcel": "^2.7.0",
     "regenerator-runtime": "^0.13.9",
     "requests": "^0.3.0"
   }
